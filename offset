@@ -1,0 +1,15 @@
+[+] DataModelHolder: 0x118
+[+] DataModel: 0x198
+[+] Name: 0x48
+[+] Children: 0x50
+[+] Parent: 0x60
+[+] ValueBase: 0xC0
+[+] ClassDescriptor: 0x18
+[+] ModuleFlags: 0x192
+[+] BytecodeSize: 0xA8
+[+] LocalScript: 0x1B8
+[+] ModuleScript: 0x158
+[+] Primitive: 0x150
+[+] GameID: 0x160
+[+] PlaceID: 0x168
+[+] LocalPlayer = 0x100
