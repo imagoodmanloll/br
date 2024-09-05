@@ -1,15 +1,15 @@
 [+] DataModelHolder: 0x118
 [+] DataModel: 0x198
-[+] Name: 0x48
-[+] Children: 0x50
-[+] Parent: 0x60
-[+] ValueBase: 0xC0
+[+] Name: 0x50
+[+] Children: 0x58
+[+] Parent: 0x68
+[+] ValueBase: 0xC8
 [+] ClassDescriptor: 0x18
-[+] ModuleFlags: 0x192
-[+] BytecodeSize: 0xA8
-[+] LocalScript: 0x1B8
-[+] ModuleScript: 0x158
-[+] Primitive: 0x150
-[+] GameID: 0x160
-[+] PlaceID: 0x168
-[+] LocalPlayer: 0x100
+[+] ModuleFlags: FAILED TO FETCH (Couldn't Dump error code: 400)
+[+] BytecodeSize: FAILED TO FETCH (Couldn't Dump error code: 400)
+[+] LocalScript: FAILED TO FETCH (Couldn't Dump error code: 400)
+[+] ModuleScript: FAILED TO FETCH (Couldn't Dump error code: 400)
+[+] Primitive: 0x160
+[+] GameID: 0x168
+[+] PlaceID: 0x170
+[+] LocalPlayer: 0x108
